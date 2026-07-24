@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0 # 确保这个版本号与你本地一致，或者去 Hugo Releases 页面找一个存在的版本
+      HUGO_VERSION: 0.164.0 # 确保这个版本号与你本地一致，或者去 Hugo Releases 页面找一个存在的版本
     steps:
       - name: Install Hugo CLI
         run: |
