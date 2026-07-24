@@ -1,4 +1,4 @@
 baseURL = 'https://test.demmo.top/'
 locale = 'en-us'
-title = 'My New Hugo Project'
-theme = "cleanwhite"
+title = 'demmo'
+theme = "blowfish"
